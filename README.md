@@ -1,11 +1,11 @@
 <h1 align="center">Hi there! 👋 I'm Mahesh Jakkula</h1>
 
 <h3 align="center">
-Aspiring Software Developer | Java • Python • AI & Machine Learning
+Aspiring Software Developer | Java • Python • Machine Learning
 </h3>
 
 <p align="center">
-Passionate about building real-world software, exploring AI & Machine Learning, and continuously improving my development skills.
+I enjoy building backend applications, exploring Machine Learning, and creating practical software solutions through code.
 </p>
 
 <p align="center">
