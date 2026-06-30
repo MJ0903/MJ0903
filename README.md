@@ -55,7 +55,7 @@ I enjoy building backend applications, exploring Machine Learning, and creating 
 
 ## 🚀 Featured Projects
 
-### 📄 Resume Screener Pro
+### 📄 Resume Screener
 
 - ATS Resume Analyzer built with Python and Streamlit
 - TF-IDF based Resume Matching
@@ -87,17 +87,6 @@ I enjoy building backend applications, exploring Machine Learning, and creating 
   <img src="https://streak-stats.demolab.com?user=MJ0903&theme=tokyonight" />
 </p>
 
----
-
-## 📫 Connect With Me
-
-## 📫 Connect With Me
-
-<p align="left">
-<a href="/" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-</a>
-</p>
 ---
 
 <p align="center">
